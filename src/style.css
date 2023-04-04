@@ -6,3 +6,16 @@
 .hover{
     @apply hover:text-darkGrayishBlue block mt-5 text-lg 
 }
+
+body{
+    background-image: url(../public/img/bg-tablet-pattern.svg);
+    background-repeat: no-repeat;
+    background-size: 800px;
+    background-position: 90% -25%;
+}`
+
+#cta{
+    background-image: url(../public/img/bg-simplify-section-desktop.svg);
+    background-repeat: no-repeat;
+    
+}
