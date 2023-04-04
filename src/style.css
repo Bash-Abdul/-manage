@@ -4,5 +4,5 @@
 
 
 .hover{
-    @apply hover:text-darkGrayishBlue
+    @apply hover:text-darkGrayishBlue block mt-5 text-lg 
 }
